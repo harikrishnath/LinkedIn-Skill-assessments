@@ -2,7 +2,7 @@
 
 #### Q1. Partitioner controls the partitioning of what data?
 
-- [ ] final keys
+- [ ]  final keys
 - [ ] final values
 - [x] intermediate keys
 - [ ] intermediate values
@@ -266,7 +266,7 @@
 - [ ] JobTracker
 - [x] YARN
 
-#### Q39. In MapReduce, **\_** have \_
+#### Q39. In MapReduce, _ have _
 
 - [ ] tasks; jobs
 - [ ] jobs; activities
@@ -280,7 +280,7 @@
 - [ ] operating system
 - [ ] productivity tool
 
-#### Q41. If no reduction is desired, you should set the numbers of \_ tasks to zero
+#### Q41. If no reduction is desired, you should set the numbers of _ tasks to zero
 
 - [ ] combiner
 - [x] reduce
@@ -294,14 +294,14 @@
 - [ ] combiner
 - [x] counter
 
-#### Q43. \_ is the query language, and \_ is storage for NoSQL on Hadoop
+#### Q43. _ is the query language, and _ is storage for NoSQL on Hadoop
 
 - [ ] HDFS; HQL
 - [x] HQL; HBase
 - [ ] HDFS; SQL
 - [ ] SQL; HBase
 
-#### Q44. MapReduce 1.0 \_ YARN
+#### Q44. MapReduce 1.0 _ YARN
 
 - [x] does not include
 - [ ] is the same thing as
@@ -346,7 +346,7 @@
 - [ ] mapreduce.job.ubertask.maxbytes in mapred-site.xml
 - [ ] hdfs.block.size in hdfs-site.xml
 
-#### Q50. Hadoop systems are **\_** RDBMS systems.
+#### Q50. Hadoop systems are _ RDBMS systems.
 
 - [ ] replacements for
 - [ ] not used with
@@ -480,14 +480,14 @@ FROM customers c;
 - [x] hadoop fs -copyFromLocal <fromDir> <toDir>
 - [ ] hadoop fs -copyFromLocal <toDir> <fromDir>
 
-#### Q68. Delete a Hive **\_** table and you will delete the table **\_**.
+#### Q68. Delete a Hive _ table and you will delete the table _.
 
 - [ ] managed; metadata
 - [ ] external; data and metadata
 - [ ] external; metadata
 - [x] managed; data
 
-#### Q69. To see how Hive executed a JOIN operation, use the \_ statement and look for the \_ value.
+#### Q69. To see how Hive executed a JOIN operation, use the _ statement and look for the _ value.
 
 - [x] EXPLAIN; JOIN Operator
 - [ ] QUERY; MAP JOIN Operator
@@ -501,7 +501,7 @@ FROM customers c;
 - [ ] Four
 - [ ] Five
 
-#### Q71. After loading data, _ and then run a(n) \_ query for interactive queries.
+#### Q71. After loading data, _ and then run a(n) _ query for interactive queries.
 
 - [x] invalidate metadata; Impala
 - [ ] validate metadata; Impala
